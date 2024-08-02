@@ -1,0 +1,10 @@
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\LibURL\bin\Debug\LibURL.dll
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\LibURL\bin\Debug\LibURL.pdb
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\LibURL\obj\Debug\LibURL.dll
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\LibURL\obj\Debug\LibURL.pdb
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\LibURL\obj\Debug\LibURL.csprojResolveAssemblyReference.cache
+F:\Travesía por la jungla\LibURL\bin\Debug\LibURL.dll
+F:\Travesía por la jungla\LibURL\bin\Debug\LibURL.pdb
+F:\Travesía por la jungla\LibURL\obj\Debug\LibURL.csprojResolveAssemblyReference.cache
+F:\Travesía por la jungla\LibURL\obj\Debug\LibURL.dll
+F:\Travesía por la jungla\LibURL\obj\Debug\LibURL.pdb

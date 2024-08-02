@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{84D869EF-7AE7-4B42-82A3-B29926BB5525}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Travesía_por_la_jungla</RootNamespace>
+    <AssemblyName>Travesía por la jungla</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Boston Red Sox.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="JPUtil">
+      <HintPath>E:\Arián\No tocar\Mi Proyecto\JPUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="Properties.Resources.Designer.cs">
+      <HintPath>..\..\WinGestionComercial\WinGestionComercial\obj\x86\Debug\TempPE\Properties.Resources.Designer.cs.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bear.cs" />
+    <Compile Include="ComoJugar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComoJugar.Designer.cs">
+      <DependentUpon>ComoJugar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ElementoXY.cs" />
+    <Compile Include="Exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exit.Designer.cs">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAboutIt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAboutIt.Designer.cs">
+      <DependentUpon>FrmAboutIt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatos.Designer.cs">
+      <DependentUpon>FrmDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStart.Designer.cs">
+      <DependentUpon>FrmStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Introducir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Introducir.Designer.cs">
+      <DependentUpon>Introducir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IObsFijos.cs" />
+    <Compile Include="IObsMoviles.cs" />
+    <Compile Include="Jugador.cs" />
+    <Compile Include="Lake.cs" />
+    <Compile Include="Obstaculos.cs" />
+    <Compile Include="Opciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opciones.Designer.cs">
+      <DependentUpon>Opciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Power.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Snake.cs" />
+    <Compile Include="Tablero.cs" />
+    <Compile Include="Wall.cs" />
+    <EmbeddedResource Include="ComoJugar.resx">
+      <DependentUpon>ComoJugar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAboutIt.resx">
+      <DependentUpon>FrmAboutIt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatos.resx">
+      <DependentUpon>FrmDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStart.resx">
+      <DependentUpon>FrmStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Introducir.resx">
+      <DependentUpon>Introducir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opciones.resx">
+      <DependentUpon>Opciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram5.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3990_Water_Fall.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dragon_age_ii-wallpaper-1920x1080.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2011_green_lantern_movie-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1leftarrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1rightarrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filenew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3floppy_unmount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kwallet2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LaST %28Cobalt%29 Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2001-74632.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\natural-1024x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\katuberling.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Cargando.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nature.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selva6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Boston Red Sox.ico" />
+    <None Include="Resources\NZNM.jpg" />
+    <None Include="Resources\TAFR.jpg" />
+    <None Include="Resources\QCOO.jpg" />
+    <None Include="Resources\JUWY.jpg" />
+    <None Include="Resources\SBZT.jpg" />
+    <None Include="Resources\URZI.jpg" />
+    <None Include="Resources\CPMO.jpg" />
+    <None Include="Resources\Picture2.gif" />
+    <None Include="Resources\Picture1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Imagénes\" />
+    <Folder Include="bin\Debug\Músik\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

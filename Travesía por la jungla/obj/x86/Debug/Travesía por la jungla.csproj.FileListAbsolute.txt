@@ -1,0 +1,188 @@
+c:\users\vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\bin\Debug\Travesía por la jungla.exe
+c:\users\vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\bin\Debug\Travesía por la jungla.pdb
+c:\users\vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Properties.Resources.resources
+c:\users\vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csproj.GenerateResource.Cache
+c:\users\vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+c:\users\vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+c:\users\vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmList.resources
+c:\users\vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmControlesBooleanos.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csprojResolveAssemblyReference.cache
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmOtrasListas.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmPanelYGroupBox.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmInicio.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmAgregarControles.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmKeyPress.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmButtons.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmSplitContainer.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmTabControl.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmStrip.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmMonthCalendar.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmWebBrowser.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmURL.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\bin\Debug\LibURL.dll
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\bin\Debug\LibURL.pdb
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmMenus.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\WinGestionComercial.FrmAcercaDe.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\bin\Debug\Properties.Resources.Designer.cs.dll
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmCuadrosDialogo.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.dgDiaSemana.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmBase.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmHeredado.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\bin\Debug\JPUtil.dll
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmColorTable.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Form1.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmBD.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmBD2.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.EventosDeUnaConexion.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.EjecucionEscalar.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.EjecucionReader.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmStart.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmDatos.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmAboutIt.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.ComoJugar.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Opciones.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Introducir.resources
+C:\Users\Vivi\documents\visual studio 2010\Projects\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Record.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+F:\Travesía por la jungla\Travesía por la jungla\bin\Debug\Travesía por la jungla.exe
+F:\Travesía por la jungla\Travesía por la jungla\bin\Debug\Travesía por la jungla.pdb
+F:\Travesía por la jungla\Travesía por la jungla\bin\Debug\LibURL.dll
+F:\Travesía por la jungla\Travesía por la jungla\bin\Debug\LibURL.pdb
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csprojResolveAssemblyReference.cache
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.ComoJugar.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.dgDiaSemana.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.EjecucionEscalar.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.EjecucionReader.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.EventosDeUnaConexion.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Form1.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmAboutIt.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\WinGestionComercial.FrmAcercaDe.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmAgregarControles.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmBase.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmBD.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmBD2.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmButtons.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmColorTable.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmControlesBooleanos.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmCuadrosDialogo.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmDatos.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmHeredado.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmInicio.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmKeyPress.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmList.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmMenus.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmMonthCalendar.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmOtrasListas.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmPanelYGroupBox.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmSplitContainer.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmStart.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmStrip.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmTabControl.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmURL.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmWebBrowser.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Introducir.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Opciones.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Properties.Resources.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Record.resources
+F:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csproj.GenerateResource.Cache
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+G:\Travesía por la jungla\Travesía por la jungla\bin\Debug\Travesía por la jungla.exe
+G:\Travesía por la jungla\Travesía por la jungla\bin\Debug\Travesía por la jungla.pdb
+G:\Travesía por la jungla\Travesía por la jungla\bin\Debug\JPUtil.dll
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csprojResolveAssemblyReference.cache
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.ComoJugar.resources
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Form1.resources
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmAboutIt.resources
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmDatos.resources
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmStart.resources
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Introducir.resources
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Opciones.resources
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Properties.Resources.resources
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Record.resources
+G:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csproj.GenerateResource.Cache
+J:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+J:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csprojResolveAssemblyReference.cache
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.ComoJugar.resources
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Form1.resources
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmAboutIt.resources
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmDatos.resources
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmStart.resources
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Introducir.resources
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Opciones.resources
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Properties.Resources.resources
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Record.resources
+D:\Travesía por la jungla\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csproj.GenerateResource.Cache
+D:\Travesía por la jungla\Travesía por la jungla\bin\Debug\Travesía por la jungla.exe
+D:\Travesía por la jungla\Travesía por la jungla\bin\Debug\Travesía por la jungla.pdb
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\bin\Debug\Travesía por la jungla.exe
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\bin\Debug\Travesía por la jungla.pdb
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csprojResolveAssemblyReference.cache
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.ComoJugar.resources
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Form1.resources
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmAboutIt.resources
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmDatos.resources
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmStart.resources
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Introducir.resources
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Opciones.resources
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Properties.Resources.resources
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Record.resources
+D:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csproj.GenerateResource.Cache
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\bin\Debug\Travesía por la jungla.exe
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\bin\Debug\Travesía por la jungla.pdb
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\bin\Debug\JPUtil.dll
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csprojResolveAssemblyReference.cache
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.ComoJugar.resources
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Form1.resources
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmAboutIt.resources
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmDatos.resources
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmStart.resources
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Introducir.resources
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Opciones.resources
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Properties.Resources.resources
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Record.resources
+G:\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csproj.GenerateResource.Cache
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\bin\Debug\Travesía por la jungla.exe
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\bin\Debug\Travesía por la jungla.pdb
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\bin\Debug\JPUtil.dll
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csprojResolveAssemblyReference.cache
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.ComoJugar.resources
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Form1.resources
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmAboutIt.resources
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmDatos.resources
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmStart.resources
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Introducir.resources
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Opciones.resources
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Properties.Resources.resources
+G:\Proyecto Original\Travesía por la jungla con Obst aarre\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csproj.GenerateResource.Cache
+E:\Proyecto Original\Pro\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+E:\Proyecto Original\Pro\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+G:\Proyecto Original\ProYect\Travesía por la jungla\bin\Debug\Travesía por la jungla.exe
+G:\Proyecto Original\ProYect\Travesía por la jungla\bin\Debug\Travesía por la jungla.pdb
+G:\Proyecto Original\ProYect\Travesía por la jungla\bin\Debug\JPUtil.dll
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csprojResolveAssemblyReference.cache
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.ComoJugar.resources
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Form1.resources
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmAboutIt.resources
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmDatos.resources
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.FrmStart.resources
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Introducir.resources
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Opciones.resources
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía_por_la_jungla.Properties.Resources.resources
+G:\Proyecto Original\ProYect\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.csproj.GenerateResource.Cache
+H:\Proyecto Original\Travesía por la jungla (Original entregado)\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+H:\Proyecto Original\Travesía por la jungla (Original entregado)\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb
+D:\School\Programacion\Proyecto Original\Travesía por la jungla (Original entregado)\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.exe
+D:\School\Programacion\Proyecto Original\Travesía por la jungla (Original entregado)\Travesía por la jungla\obj\x86\Debug\Travesía por la jungla.pdb

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Travesía_por_la_jungla.Bear" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQhAAABICA=</HashCode>
+      <FileName>Bear.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Travesía_por_la_jungla.ComoJugar" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABgABACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComoJugar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.ElementoXY" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAIABgAAAAYAA=</HashCode>
+      <FileName>ElementoXY.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Exit" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABQAAACAAAACAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Form1" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wjxGASYQACKAJBSQADGCAAAChAHCUiImCQd5BYEAZBA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.FrmAboutIt" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAAABAAACAAAgCAACAAAAAAAAAAAIAGAA=</HashCode>
+      <FileName>FrmAboutIt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.FrmDatos" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQSCEAAAAKAIAAICAACgAEBDISFAoAAQAAABAAEQAAA=</HashCode>
+      <FileName>FrmDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.FrmStart" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAQACYAABCEAACAQAACRhAgJgQQMAQhEAAEQgA=</HashCode>
+      <FileName>FrmStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Introducir" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAAIAACUAIAgAJAyCAABDIBAAAgASEAADAAABCAQ=</HashCode>
+      <FileName>Introducir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Jugador">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAACDQAAACwAAAAEAAAAAAAAAAgAAAAIAAIAAAACAA=</HashCode>
+      <FileName>Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Lake" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQBAAAAAAA=</HashCode>
+      <FileName>Lake.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Obstaculos" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACEAEAAgABAAAAAAAAAAA=</HashCode>
+      <FileName>Obstaculos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Opciones" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAACCUAAAQAABCAAAACAAAAAAACwAAAAIAAAAA=</HashCode>
+      <FileName>Opciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Power" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Power.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Program" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Snake" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQAAAABAAA=</HashCode>
+      <FileName>Snake.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Tablero" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEAAAABAAAAAAAACAAAAAgAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Tablero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Wall" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAAA=</HashCode>
+      <FileName>Wall.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Properties.Resources" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAAAAAABAAADAIAEBEAAQlQg4gAiAQAIQCABCAIg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Travesía_por_la_jungla.Properties.Settings" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Travesía_por_la_jungla.IObsFijos" Collapsed="true">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IObsFijos.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Travesía_por_la_jungla.IObsMoviles" Collapsed="true">
+    <Position X="16" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IObsMoviles.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
